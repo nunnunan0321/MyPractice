@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894212304264",
+    "project_id": "vacationproject-906ac",
+    "storage_bucket": "vacationproject-906ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894212304264:android:85fa0ec9868365fa0c1e3d",
+        "android_client_info": {
+          "package_name": "com.example.myhobby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894212304264-ns5bl13oe1ci0j0dnh878lhoougahiv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA8Nyw4MeeE-4ZdV5Kab8c6LnuIlE9Lts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894212304264-ns5bl13oe1ci0j0dnh878lhoougahiv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
